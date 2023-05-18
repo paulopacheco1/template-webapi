@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "PetroTemplate.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PetroTemplate.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PetroTemplate.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetroTemplate.Application.dll": {}
+        }
+      },
+      "PetroTemplate.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PetroTemplate.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetroTemplate.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetroTemplate.Application/1.0.0": {
+      "type": "project",
+      "path": "../PetroTemplate.Application/PetroTemplate.Application.csproj",
+      "msbuildProject": "../PetroTemplate.Application/PetroTemplate.Application.csproj"
+    },
+    "PetroTemplate.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PetroTemplate.Domain/PetroTemplate.Domain.csproj",
+      "msbuildProject": "../PetroTemplate.Domain/PetroTemplate.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "PetroTemplate.Application >= 1.0.0",
+      "PetroTemplate.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/paulopacheco/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/PetroTemplate.Infrastructure.csproj",
+      "projectName": "PetroTemplate.Infrastructure",
+      "projectPath": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/PetroTemplate.Infrastructure.csproj",
+      "packagesPath": "/home/paulopacheco/.nuget/packages/",
+      "outputPath": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/paulopacheco/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Application/PetroTemplate.Application.csproj": {
+              "projectPath": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Application/PetroTemplate.Application.csproj"
+            },
+            "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/PetroTemplate.Domain.csproj": {
+              "projectPath": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/PetroTemplate.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/paulopacheco/.dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

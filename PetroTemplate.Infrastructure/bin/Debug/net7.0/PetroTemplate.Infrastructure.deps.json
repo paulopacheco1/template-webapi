@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PetroTemplate.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PetroTemplate.Application": "1.0.0",
+          "PetroTemplate.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PetroTemplate.Infrastructure.dll": {}
+        }
+      },
+      "PetroTemplate.Application/1.0.0": {
+        "dependencies": {
+          "PetroTemplate.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PetroTemplate.Application.dll": {}
+        }
+      },
+      "PetroTemplate.Domain/1.0.0": {
+        "runtime": {
+          "PetroTemplate.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetroTemplate.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetroTemplate.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetroTemplate.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

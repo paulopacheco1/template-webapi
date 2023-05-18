@@ -1,0 +1,17 @@
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Infrastructure.deps.json
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Infrastructure.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Infrastructure.pdb
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Application.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Domain.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Domain.pdb
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Application.pdb
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.csproj.AssemblyReference.cache
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.AssemblyInfoInputs.cache
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.AssemblyInfo.cs
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.csproj.CoreCompileInputs.cache
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.csproj.CopyComplete
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/refint/PetroTemplate.Infrastructure.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.pdb
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/ref/PetroTemplate.Infrastructure.dll

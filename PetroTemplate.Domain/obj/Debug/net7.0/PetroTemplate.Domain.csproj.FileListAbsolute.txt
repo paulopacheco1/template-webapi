@@ -1,0 +1,12 @@
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/bin/Debug/net7.0/PetroTemplate.Domain.deps.json
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/bin/Debug/net7.0/PetroTemplate.Domain.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/bin/Debug/net7.0/PetroTemplate.Domain.pdb
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.csproj.AssemblyReference.cache
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.AssemblyInfoInputs.cache
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.AssemblyInfo.cs
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.csproj.CoreCompileInputs.cache
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/refint/PetroTemplate.Domain.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/PetroTemplate.Domain.pdb
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Domain/obj/Debug/net7.0/ref/PetroTemplate.Domain.dll
