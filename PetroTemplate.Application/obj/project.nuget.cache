@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xdM50j8qpvx1sZ1hPn/oc0Yre7yBafh3bQ8ESVK0pR/USsMAnnz9F7rkqhFyZkBnUZTrgZ+vORPq8l4Gite8yw==",
+  "dgSpecHash": "9iY536ICdOIZ+tKzedEJUFwYvAnbjB911i1ZElzuu4sORI8KQ9sPYNn6NnCIA/zuTsdzJnEjiVnZoBCHkg6xIA==",
   "success": true,
   "projectFilePath": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Application/PetroTemplate.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/paulopacheco/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512",
+    "/home/paulopacheco/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/paulopacheco/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/paulopacheco/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
