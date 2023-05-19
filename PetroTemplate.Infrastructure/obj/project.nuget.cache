@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz1S+qUgIXof0Uf2HM6IuVFrqvcg6CLN/9Y8gSmk+1WqKjfpaBOmT5iOaHFN4d4uYSHejk+TQXRIY+mT4Pr6Sw==",
+  "dgSpecHash": "rPu/G6f1dQwB15wRz+/5ZsEvlQcqK6oTZTZNUykX+johLQkQGJQOpOc1P1nv7CQzVlX0J2dmiYidcwTCVBr3uQ==",
   "success": true,
   "projectFilePath": "/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/PetroTemplate.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "/home/paulopacheco/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
     "/home/paulopacheco/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
     "/home/paulopacheco/.nuget/packages/microsoft.entityframeworkcore.design/7.0.5/microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
+    "/home/paulopacheco/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.5/microsoft.entityframeworkcore.inmemory.7.0.5.nupkg.sha512",
     "/home/paulopacheco/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.5/microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "/home/paulopacheco/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.5/microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
     "/home/paulopacheco/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",

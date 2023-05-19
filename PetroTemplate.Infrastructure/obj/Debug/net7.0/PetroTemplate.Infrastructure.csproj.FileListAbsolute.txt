@@ -15,3 +15,5 @@
 /home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/refint/PetroTemplate.Infrastructure.dll
 /home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.pdb
 /home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/ref/PetroTemplate.Infrastructure.dll
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/bin/Debug/net7.0/PetroTemplate.Infrastructure.runtimeconfig.json
+/home/paulopacheco/Projetos/IBM/PetroTemplate/PetroTemplate.Infrastructure/obj/Debug/net7.0/PetroTemplate.Infrastructure.genruntimeconfig.cache
