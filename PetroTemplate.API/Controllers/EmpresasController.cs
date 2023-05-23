@@ -41,11 +41,6 @@ public class EmpresasController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> Create([FromBody] CreateEmpresaRequest request)
     {
-        if (!ModelState.IsValid)
-        {
-            return StatusCode(StatusCodes.Status400BadRequest, ModelState);
-        }
-
         var empresaId = await Mediator.Send(request);
         return CreatedAtAction(nameof(Get), new { id = empresaId }, request);
     }
