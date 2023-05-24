@@ -21,7 +21,7 @@ public class EmpresaFilial : Entity
         Empresa = empresa;
     }
 
-    protected internal virtual void Desativar()
+    public virtual void Desativar()
     {
         base.SetDeleted();
     }

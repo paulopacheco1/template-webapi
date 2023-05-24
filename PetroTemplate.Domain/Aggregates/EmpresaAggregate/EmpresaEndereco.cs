@@ -18,15 +18,15 @@ public class EmpresaEndereco : ValueObject
     public virtual string Numero { get; protected set; }
     public virtual string? Complemento { get; protected set; }
 
-    public EmpresaEndereco(string? cep, string? uf, string? cidade, string? bairro, string? logradouro, string? numero, string? complemento)
+    public EmpresaEndereco(string cep, string uf, string cidade, string bairro, string logradouro, string numero, string? complemento = null)
     {
-        CEP = cep ?? "";
-        UF = uf ?? "";
-        Cidade = cidade ?? "";
-        Bairro = bairro ?? "";
-        Logradouro = logradouro ?? "";
-        Numero = numero ?? "";
-        Complemento = complemento ?? "";
+        CEP = cep;
+        UF = uf;
+        Cidade = cidade;
+        Bairro = bairro;
+        Logradouro = logradouro;
+        Numero = numero;
+        Complemento = complemento;
     }
 
     public override string ToString()
