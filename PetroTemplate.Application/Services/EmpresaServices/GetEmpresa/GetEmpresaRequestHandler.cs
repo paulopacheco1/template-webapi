@@ -1,3 +1,4 @@
+using System.Net;
 using PetroTemplate.Application.SeedWork;
 using PetroTemplate.Domain.Aggregates.EmpresaAggregate;
 using PetroTemplate.Domain.Exceptions;
@@ -20,7 +21,7 @@ public class GetEmpresaRequestHandler : RequestHandler<GetEmpresaRequest, GetEmp
     private async Task<Empresa> GetEmpresa(Guid empresaId)
     {
         var empresa = await _unitOfWork.Empresas.GetByIdAsync(empresaId);
-        if (empresa == null) throw new AppException("Empresa não encontrada.");
+        if (empresa == null) throw new AppException("Empresa não encontrada.", HttpStatusCode.NotFound);
         return empresa;
     }
 }

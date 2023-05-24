@@ -4,10 +4,10 @@ public abstract class Entity
 {
     protected Entity() { }
 
-    public Guid Id { get; private set; }
-    public DateTime CreatedAt { get; private set; }
-    public DateTime UpdatedAt { get; private set; }
-    public DateTime? DeletedAt { get; private set; }
+    public virtual Guid Id { get; private set; }
+    public virtual DateTime CreatedAt { get; private set; }
+    public virtual DateTime UpdatedAt { get; private set; }
+    public virtual DateTime? DeletedAt { get; private set; }
 
     protected virtual void SetCreated()
     {

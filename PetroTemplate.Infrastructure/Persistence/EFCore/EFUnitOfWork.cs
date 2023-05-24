@@ -6,16 +6,16 @@ using PetroTemplate.Infrastructure.Persistence.EFCore.Repositories;
 
 namespace PetroTemplate.Infrastructure.Persistence.EFCore;
 
-public class UnitOfWork : IUnitOfWork
+public class EFUnitOfWork : IUnitOfWork
 {
     private readonly EFDataContext _context;
 
-    public UnitOfWork(EFDataContext context)
+    public EFUnitOfWork(EFDataContext context)
     {
         _context = context;
     }
 
-    public async Task<int> CommitAsync()
+    public async Task CommitAsync()
     {
         foreach (var entry in _context.ChangeTracker.Entries<Entity>().ToList())
         {
@@ -34,7 +34,7 @@ public class UnitOfWork : IUnitOfWork
             }
         }
 
-        return await _context.SaveChangesAsync();
+        await _context.SaveChangesAsync();
     }
 
     private IEmpresaRepository? _empresaRepository;
