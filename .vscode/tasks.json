@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/PetroTemplate.API/PetroTemplate.API.csproj",
+        "${workspaceFolder}/Template.API/Template.API.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/PetroTemplate.API/PetroTemplate.API.csproj",
+        "${workspaceFolder}/Template.API/Template.API.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -33,7 +33,7 @@
         "watch",
         "run",
         "--project",
-        "${workspaceFolder}/PetroTemplate.API/PetroTemplate.API.csproj"
+        "${workspaceFolder}/Template.API/Template.API.csproj"
       ],
       "problemMatcher": "$msCompile"
     }
